@@ -1,4 +1,0 @@
-repository "Project@tasriad@cloud"
-  path "/"
-    br "/main"
-    co "/main"
